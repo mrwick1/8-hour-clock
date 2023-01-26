@@ -50,7 +50,7 @@ const Home = () => {
         <img src='./src/assets/clock.png' alt='' />8 Hour Clock
       </Header>
       <Container>
-        <h3>Time : {time}</h3>
+        {/* <h3>Time : {time}</h3> */}
         <H1>Calculate Your 8 Hour</H1>
         <Row>
           <span>Shift Starting Time : </span>
